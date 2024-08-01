@@ -133,6 +133,7 @@ function createCard(data) {
   );
   return cardElement.generateCard();
 }
+// function
 
 function handleLikeClick(card) {
   if (card.isLiked) {
